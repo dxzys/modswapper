@@ -1,0 +1,5 @@
+some of these modules are already pre-installed depeinding on your version of python
+
+configparser
+psutil
+shutil
